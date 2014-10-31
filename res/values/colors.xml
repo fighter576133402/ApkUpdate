@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+
+<color name="app_bg_color">#dbdbdb</color><!-- app背景颜色 -->
+<color name="translucent">#0000</color><!--全透明色 -->
+<color name="menu_background">#343c4a</color><!--菜单栏背景色 -->
+<color name="menu_item">#282f3b</color><!--菜单栏深背景色 -->
+<color name="write">#FFFFFF</color><!--纯白 -->
+<color name="title">#333333</color><!--标题字体色 -->
+<color name="black">#000000</color><!--黑色 -->
+<color name="red">#DC143C</color><!-- 红色 -->
+<color name="alp_white">#64FFFFFF</color><!--纯白半透明 -->
+<color name="list_text">#666666</color><!--list小字灰色 -->
+<color name="divider">#999999</color><!--纯白半透明 -->
+<color name="load_bg">#60000000</color><!--下载半透明黑色-->
+<color name="lable_bg">#d0d0d0</color><!--标签背景色-->
+<color name="gray">#CCCCCC</color><!-- 浅灰色 -->
+<color name="white">#ffffff</color>
+<color name="vote_bg">#efeff4</color>
+
+
+
+<color name="menu_bg">#3c3e49</color><!--左侧字体未选中时颜色-->
+<color name="menu_text">#7e808b</color><!--左侧字体未选中时颜色-->
+<color name="menu_text_select">#173804</color><!--字体选中时颜色-->
+<color name="title_line">#a4a5a8</color><!--右侧标题下方线条颜色-->
+<color name="content_bg">#ebecf1</color><!--背景颜色-->
+<color name="login_bg">#3d3f4a</color><!--登陆背景-->
+<color name="tool_btn">#70000000</color><!-- 工具按钮背景 -->
+<color name="page_top_line">#a4a5ab</color><!-- 每页上部线条 -->
+
+<color name="question_color">#666</color><!-- 工具按钮背景 -->
+<color name="question_line_fenge">#e8f2e6</color><!-- 工具按钮背景 -->
+<color name="vote_text_color">#83bc3c</color><!-- 投票页面部分字体绿色 -->
+
+<color name="statist_head">#F0F5EF</color>
+<color name="statist_frame">#CECDCD</color>
+<color name="statist_table_frame">#F0F5EF</color>
+<color name="statist_text_color">#666666</color>
+<color name="statist_renderer">#B3D929</color>
+<color name="chart_bg">#00ffffff</color>
+<color name="tingfeng_green">#59ab01</color>
+
+<color name="tingfeng_blue">#3c78d8</color>
+<color name="tingfeng_write">#ffffff</color>
+
+
+<color name="tingfeng_title">#1f211e</color>
+<color name="tingfeng_fu_title">#696565</color>
+<color name="tingfeng_suzi_title">#1d3400</color>
+<color name="light">#FFEEEEEE</color>
+<color name="bule_overlay">#660D92DD</color>
+<color name="orange">#FFA07A</color>
+<color name="button_question_color">#7abc24</color>
+
+</resources>
